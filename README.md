@@ -28,5 +28,4 @@
 ---
 
 <div align="center">
-  <i>"Writing code to write code."</i>
 </div>
